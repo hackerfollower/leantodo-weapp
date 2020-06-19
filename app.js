@@ -3,9 +3,9 @@ const adapter = require('./utils/platform-adapters-weapp');
 
 AV.setAdapters(adapter);
 AV.init({
-  appId: 'ozewwcwsyq92g2hommuxqrqzg6847wgl8dtrac6suxzko333',
-  appKey: 'ni0kwg7h8hwtz6a7dw9ipr7ayk989zo5y8t0sn5gjiel6uav',
-  serverURLs: 'https://ozewwcws.lc-cn-n1-shared.com',
+  appId: 'SjkW9KlWxczs145IslyARNkx-gzGzoHsz',
+  appKey: '6LRqM72XtX1iTer3lUXudRbj',
+  serverURLs: 'https://api.potatofans.top',
 });
 
 //app.js

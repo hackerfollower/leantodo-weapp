@@ -14,6 +14,13 @@ class Todo extends AV.Object {
   set content(value) {
     this.set('content', value);
   }
+
+  // get updatedAt() {
+  //   return this.get('updatedAt');
+  // }
+  // set updatedAt(value) {
+  //   this.set('updatedAt', value);
+  // }
 }
 
 AV.Object.register(Todo, 'Todo');
