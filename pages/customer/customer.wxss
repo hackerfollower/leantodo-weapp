@@ -1,0 +1,8 @@
+/* pages/customer/customer.wxss */
+.navigator {
+  background: white;
+  border-bottom: 1px solid #eee;
+  padding: 0 30px;
+  height: 46px;
+  line-height: 46px;
+}

@@ -2,6 +2,7 @@
   "pages": [
     "pages/todos/todos",
     "pages/user/user",
+    "pages/customer/customer",
     "pages/pay/pay",
     "pages/setting/setting"
   ],
